@@ -1,6 +1,6 @@
 const pessoa = {
     nome: "Luma",
-    profissão: "Engenheira"
+    profissão: "Engenheira",
 }
 console.log();
 console.log("1)", pessoa.nome);
