@@ -10,7 +10,7 @@ const objetoPessoa = {
     nome: "José",
     idade: 32,
     CPF: '545.444.545-20'
-
+    
 }
 console.log()
 console.log(objetoPessoa)
